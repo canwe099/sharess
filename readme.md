@@ -7,8 +7,9 @@ collecting free ss accounts from internet
 
 the data is from sites below ...
 
-* [https://ss.pythonic.life](ss.pythonic.life)
-* [https://free-ss.site](free-ss.site)
+* [ss.pythonic.life](https://ss.pythonic.life)
+* [free-ss.site](https://free-ss.site)
+
 
 `more is on way ...`
 
