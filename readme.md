@@ -7,9 +7,8 @@ collecting free ss accounts from internet
 
 the data is from sites below ...
 
-* [ss.pythonic.life](https://ss.pythonic.life)
+* [ss.pythonic.life](https://ss.pythonic.life)   [RSS](https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com)   [Github](https://github.com/the0demiurge/ShadowSocksShare)
 * [free-ss.site](https://free-ss.site)
-
 
 `more is on way ...`
 
