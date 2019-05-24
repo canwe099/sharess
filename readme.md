@@ -1,4 +1,4 @@
-# free ss in the internet
+# Free ss&ssr accounts from the internet
 
 collecting free ss accounts from internet
 
