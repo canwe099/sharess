@@ -9,6 +9,7 @@ the data is from sites below ...
 
 * [ss.pythonic.life](https://ss.pythonic.life)   [RSS](https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com)   [Github](https://github.com/the0demiurge/ShadowSocksShare)
 * [free-ss.site](https://free-ss.site)
+* [new_pac](github.com/Alvin9999/new-pac/wiki/ss免费账号) 
 
 `more is on way ...`
 
