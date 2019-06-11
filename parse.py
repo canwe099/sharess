@@ -33,8 +33,8 @@ for line in data:
     account = Account()
     account.server = line[1].strip()
     account.server_port = int(line[2].strip())
-    account.password = line[4].strip()
-    account.method = line[3].strip()
+    account.password = line[3].strip()
+    account.method = line[4].strip()
 
     # print(account.get_account())
     account_list.append(account.get_account())
